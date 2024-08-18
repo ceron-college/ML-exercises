@@ -1,4 +1,4 @@
-# Regression Workshop
+# Regression
 
 As a practical exercise in linear regression, the task is to apply the concepts learned in class to a dataset extracted from Kaggle, selected by the members of each team, in which the following activities are to be carried out:
 
