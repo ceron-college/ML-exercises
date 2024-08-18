@@ -1,4 +1,4 @@
-# Neural Networks Workshop
+# Neural Networks
 
 As a practical exercise in neural networks, the task is to create a classification model to determine whether the individuals in a provided dataset suffer from heart disease. The dataset is attached to this workshop.
 
