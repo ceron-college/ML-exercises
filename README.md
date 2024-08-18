@@ -8,4 +8,4 @@ This repository contains a series of exercises and projects related to machine l
 - **Neural Networks**: Implementation of different neural network architectures.
 - **Regression**: Various regression techniques applied to real-world data.
 - **SVM**: Support Vector Machine (SVM) implementations with different kernels.
-- **Satellite Image Classification**: Classifying satellite images using CNNs.
+- **Satellite Image Classification**: Classifying satellite images using Convolutional Neural Networks (CNNs).
