@@ -1,4 +1,4 @@
-# Clustering Workshop
+# Clustering
 
 As a practical exercise in clustering, the task is to apply the concepts learned in class to a dataset that collects information on the happiness index of countries around the world. The following activities are to be carried out:
 
