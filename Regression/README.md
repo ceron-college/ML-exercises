@@ -10,8 +10,6 @@ As a practical exercise in linear regression, the task is to apply the concepts 
 
 - **Evaluate models**: Evaluate the models with the R² coefficient.
 
-- **Report**: Write a report with the results obtained.
-
 The following link provides recommended datasets:
 
 [https://www.kaggle.com/code/rttatman/datasets-for-regression-analysis/notebook](https://www.kaggle.com/code/rttatman/datasets-for-regression-analysis/notebook)
