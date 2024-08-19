@@ -9,3 +9,4 @@ As a practical exercise in SVMs (Support Vector Machines), the task is to apply 
 - **Train an SVM with a polynomial kernel**: Train an SVM using the preprocessed dataset with a polynomial kernel.
 
 - **Train an SVM with an RBF kernel**: Train an SVM using the preprocessed dataset with an RBF kernel.
+Data can be found https://data.winnipeg.ca/
